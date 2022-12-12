@@ -1,0 +1,6 @@
+Keterangan :
+1. Function ada di Controller PrintPDF (function carddonor, cardpedet, cardresipien, cardbibit)
+2. Data di setial function harus disesuaikan 
+3. Pastikan update library file fpdf dengan yang baru. D:\Xampp\htdocs\skhte\application\third_party\fpdf
+4. Contoh ada di folder D:\Xampp\htdocs\skhte\example
+5. Include library pdf di D:\Xampp\htdocs\skhte\application\libraries\pdf.php 
